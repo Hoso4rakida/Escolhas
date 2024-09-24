@@ -1,0 +1,15 @@
+C:\Users\Cristiane\OneDrive\Área de Trabalho\Projetinhos\bin\Debug\net8.0\Projetinhos.exe
+C:\Users\Cristiane\OneDrive\Área de Trabalho\Projetinhos\bin\Debug\net8.0\Projetinhos.deps.json
+C:\Users\Cristiane\OneDrive\Área de Trabalho\Projetinhos\bin\Debug\net8.0\Projetinhos.runtimeconfig.json
+C:\Users\Cristiane\OneDrive\Área de Trabalho\Projetinhos\bin\Debug\net8.0\Projetinhos.dll
+C:\Users\Cristiane\OneDrive\Área de Trabalho\Projetinhos\bin\Debug\net8.0\Projetinhos.pdb
+C:\Users\Cristiane\OneDrive\Área de Trabalho\Projetinhos\obj\Debug\net8.0\Projetinhos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristiane\OneDrive\Área de Trabalho\Projetinhos\obj\Debug\net8.0\Projetinhos.AssemblyInfoInputs.cache
+C:\Users\Cristiane\OneDrive\Área de Trabalho\Projetinhos\obj\Debug\net8.0\Projetinhos.AssemblyInfo.cs
+C:\Users\Cristiane\OneDrive\Área de Trabalho\Projetinhos\obj\Debug\net8.0\Projetinhos.csproj.CoreCompileInputs.cache
+C:\Users\Cristiane\OneDrive\Área de Trabalho\Projetinhos\obj\Debug\net8.0\Projetinhos.sourcelink.json
+C:\Users\Cristiane\OneDrive\Área de Trabalho\Projetinhos\obj\Debug\net8.0\Projetinhos.dll
+C:\Users\Cristiane\OneDrive\Área de Trabalho\Projetinhos\obj\Debug\net8.0\refint\Projetinhos.dll
+C:\Users\Cristiane\OneDrive\Área de Trabalho\Projetinhos\obj\Debug\net8.0\Projetinhos.pdb
+C:\Users\Cristiane\OneDrive\Área de Trabalho\Projetinhos\obj\Debug\net8.0\Projetinhos.genruntimeconfig.cache
+C:\Users\Cristiane\OneDrive\Área de Trabalho\Projetinhos\obj\Debug\net8.0\ref\Projetinhos.dll
