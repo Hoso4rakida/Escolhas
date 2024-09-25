@@ -1,0 +1,12 @@
+C:\Users\Cristiane\OneDrive\Área de Trabalho\Projetinhos\Fundamentos.common\bin\Debug\net8.0\Fundamentos.common.deps.json
+C:\Users\Cristiane\OneDrive\Área de Trabalho\Projetinhos\Fundamentos.common\bin\Debug\net8.0\Fundamentos.common.dll
+C:\Users\Cristiane\OneDrive\Área de Trabalho\Projetinhos\Fundamentos.common\bin\Debug\net8.0\Fundamentos.common.pdb
+C:\Users\Cristiane\OneDrive\Área de Trabalho\Projetinhos\Fundamentos.common\obj\Debug\net8.0\Fundamentos.common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristiane\OneDrive\Área de Trabalho\Projetinhos\Fundamentos.common\obj\Debug\net8.0\Fundamentos.common.AssemblyInfoInputs.cache
+C:\Users\Cristiane\OneDrive\Área de Trabalho\Projetinhos\Fundamentos.common\obj\Debug\net8.0\Fundamentos.common.AssemblyInfo.cs
+C:\Users\Cristiane\OneDrive\Área de Trabalho\Projetinhos\Fundamentos.common\obj\Debug\net8.0\Fundamentos.common.csproj.CoreCompileInputs.cache
+C:\Users\Cristiane\OneDrive\Área de Trabalho\Projetinhos\Fundamentos.common\obj\Debug\net8.0\Fundamentos.common.sourcelink.json
+C:\Users\Cristiane\OneDrive\Área de Trabalho\Projetinhos\Fundamentos.common\obj\Debug\net8.0\Fundamentos.common.dll
+C:\Users\Cristiane\OneDrive\Área de Trabalho\Projetinhos\Fundamentos.common\obj\Debug\net8.0\refint\Fundamentos.common.dll
+C:\Users\Cristiane\OneDrive\Área de Trabalho\Projetinhos\Fundamentos.common\obj\Debug\net8.0\Fundamentos.common.pdb
+C:\Users\Cristiane\OneDrive\Área de Trabalho\Projetinhos\Fundamentos.common\obj\Debug\net8.0\ref\Fundamentos.common.dll

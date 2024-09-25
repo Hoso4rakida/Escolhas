@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Projetinhos/1.0.0": {
+        "dependencies": {
+          "Fundamentos.common": "1.0.0"
+        },
+        "runtime": {
+          "Projetinhos.dll": {}
+        }
+      },
+      "Fundamentos.common/1.0.0": {
+        "runtime": {
+          "Fundamentos.common.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projetinhos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Fundamentos.common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
